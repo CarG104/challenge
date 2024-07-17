@@ -1,2 +1,2 @@
 # challenge
-This is a challenge for Alura One
+This is a challenge for Alura ONE
